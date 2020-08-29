@@ -11,6 +11,9 @@ function App() {
           Edit <code>src/App.js</code> 
           FUNCIONOU REACT NO SERVIDOR
         </p>
+        <p>
+          NÂO VAI ATUALIZAR
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"

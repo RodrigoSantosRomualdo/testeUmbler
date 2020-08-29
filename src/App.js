@@ -8,8 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. MEU APP SUBIU
-          SERVIDOR
+          Edit <code>src/App.js</code> 
+          FUNCIONOU REACT NO SERVIDOR
         </p>
         <a
           className="App-link"

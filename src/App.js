@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload. MEU APP SUBIU
-          Primeira vez não foi
+          SERVIDOR
         </p>
         <a
           className="App-link"
